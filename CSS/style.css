@@ -1,0 +1,19 @@
+body {
+  background-image: url(../Images/pexels-veeterzy-39811.jpg);
+  background-size: cover;
+}
+
+*{
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.home-content {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+.current {
+  background-image:linear-gradient(rgba(0,0,0,0.6) , rgba(0,0,0,0.6) ) ,url(../Images/pexels-veeterzy-39811.jpg);
+  background-size: cover;
+}
+
+
